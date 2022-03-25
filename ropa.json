@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "id":1,
+            "nombre":"Denin",
+            "precio":"129.900",
+            "talla":"36 38 40 42",
+            "color":"azul, negro",
+            "descripcion":"Jeans básicos, con diseño de cinco moderno, cierre de y cremallera, en tejido 100% algodón y disponible en varios lavados.",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648207364/samples/2_no48xf.jpg"
+        },
+        {
+            "id":2,
+            "nombre":"Denin standard",
+            "precio":"149.900",
+            "talla":"36 38 40 42",
+            "color":"azul",
+            "descripcion":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi inventore minus eos architecto dolor?Consequuntur in voluptate alias exercitationem.",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648207370/samples/8_e6svij.jpg"
+        },
+        {
+            "id":3,
+            "nombre":"Denin clasico",
+            "precio":"119.900",
+            "talla":"36 38 40 42",
+            "color":"azul",
+            "descripcion":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi inventore minus eos architecto dolor?Consequuntur in voluptate alias exercitationem..",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648207371/samples/4_tacpnn.jpg"
+        },
+        {
+            "id":4,
+            "nombre":"Camiseta basica",
+            "precio":"144.900",
+            "talla":"S M L XL",
+            "color":"Varios tonos disponibles",
+            "descripcion":"Camiseta con detalle manga corta, con cuello redondo.",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648207375/samples/5_rsruyz.jpg"
+        },
+        {
+            "id":5,
+            "nombre":"Sweater",
+            "precio":"129.900",
+            "talla":"S M L XL",
+            "color":"Varios tonos disponibles",
+            "descripcion":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi inventore minus eos architecto dolor?Consequuntur in voluptate alias exercitationem.",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648207936/samples/kaylee-garrett-M6obUe9T20o-unsplash_k1tlnr.jpg"
+        },
+        {
+            "id":6,
+            "nombre":"Camiseta de colores",
+            "precio":"19.900",
+            "talla":"S M L XL",
+            "color":"Varios tonos disponibles",
+            "descripcion":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi inventore minus eos architecto dolor?Consequuntur in voluptate alias exercitationem.",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648207366/samples/6_onn9de.jpg"
+        },
+        {
+            "id":7,
+            "nombre":"Sudadera",
+            "precio":"160.900",
+            "talla":"S M L XL",
+            "color":"Varios tonos disponibles",
+            "descripcion":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi inventore minus eos architecto dolor?Consequuntur in voluptate alias exercitationem.",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648207365/samples/7_yrpal1.jpg"
+        },
+        {
+            "id":8,
+            "nombre":"Camisa",
+            "precio":"199.900",
+            "talla":"S M L XL",
+            "color":"Varios tonos disponibles",
+            "descripcion":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi inventore minus eos architecto dolor?Consequuntur in voluptate alias exercitationem.",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648208948/samples/james-barr-cPTCFdXPIV0-unsplash_dfomwc.jpg"
+        },
+        {
+            "id":9,
+            "nombre":"Sudadera",
+            "precio":"187.900",
+            "talla":"S M L XL",
+            "color":"Varios tonos disponibles",
+            "descripcion":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi inventore minus eos architecto dolor?Consequuntur in voluptate alias exercitationem.",
+            "imagen":"https://res.cloudinary.com/dxu01bvpk/image/upload/v1648208948/samples/mohammed-hassan-5KAjSBSdaK4-unsplash_klsvpi.jpg"
+        }
+    ]
+}
